@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1607316241 source:c:\users\andrea\documents\k_means\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<fstream>
+	<sstream>
+	<algorithm>
+
